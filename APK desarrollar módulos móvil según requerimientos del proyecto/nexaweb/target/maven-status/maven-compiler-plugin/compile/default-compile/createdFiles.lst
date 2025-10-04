@@ -1,0 +1,4 @@
+com\nexa\web\servlets\loginservlet.class
+com\nexa\web\servlets\logoutservlet.class
+com\mycompany\nexaweb\resources\JakartaEE10Resource.class
+com\mycompany\nexaweb\JakartaRestConfiguration.class
